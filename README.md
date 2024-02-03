@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gamze AKÇAY</h1>
+<h1 align="center">Hi 👋, I'm Gamze AKCAY</h1>
 <h3 align="center">I am student at Necmettin Erbakan University, my department is Computer Engineering. I am developing myself in Data Science.</h3>
 
 - 📫 How to reach me **akcaygamze10@gmail.com**
