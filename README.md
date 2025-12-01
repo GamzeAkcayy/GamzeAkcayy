@@ -31,17 +31,6 @@
 
 ---
 
-<h3 align="left">🚀 Featured Project</h3>
-
-<p align="left">
-  <b>🔭 Edge IoT Security Risk Analysis System</b><br>
-  A real-time security system running on Raspberry Pi. It utilizes optimized LSTM models for anomaly detection and Computer Vision for threat assessment, functioning completely offline without cloud dependency.
-  <br>
-  <a href="https://github.com/gamzeakcayy/SENIN-PROJE-LINKIN">View Project →</a>
-</p>
-
----
-
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gamzeakcay/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gamze akçay" /></a>
@@ -49,5 +38,3 @@
 </p>
 
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gamzeakcayy&show_icons=true&theme=radical&hide=stars" alt="gamzeakcayy" /></p>
