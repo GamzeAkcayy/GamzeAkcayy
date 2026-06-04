@@ -48,8 +48,3 @@
 > 🛠️ **Custom 2D Physics Engine (C++)**
 > * Rigid body dynamics and custom collision resolution from scratch. High-performance computation without external physics libraries.
 
-> 👁️ **Edge AI Risk Analysis System**
-> * Real-time security risk assessment and computer vision model deployment optimized for Raspberry Pi / Jetson.
-
-> 📊 **Data-Driven Energy Optimization (TÜBİTAK 2209)**
-> * Resource-constrained IoT system development focused on analytical energy efficiency and predictive modeling.
