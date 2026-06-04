@@ -53,11 +53,3 @@
 
 > 📊 **Data-Driven Energy Optimization (TÜBİTAK 2209)**
 > * Resource-constrained IoT system development focused on analytical energy efficiency and predictive modeling.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamzeakcay&show_icons=true&theme=tokyonight&count_private=true" alt="Gamze's GitHub Stats" />
-</p>
