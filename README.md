@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gamze Akçay</h1>
+<h1 align="center">Hi, I'm Gamze Akçay</h1>
 <h3 align="center">Embedded Systems & Edge AI Engineer</h3>
 
 <p align="center">
@@ -43,8 +43,15 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-> 🛠️ **Custom 2D Physics Engine (C++)**
-> * Rigid body dynamics and custom collision resolution from scratch. High-performance computation without external physics libraries.
+> **Distributed STM32 & Raspberry Pi CAN Bus Gateway**
+> * Developed a dual-node industrial communication system utilizing **C** on STM32 (CubeMX) and **C++** on Raspberry Pi 4B.
+> * Implemented a non-blocking, multi-threaded **SocketCAN** architecture on Linux to handle real-time data transmission without frame drops.
+> * *Tech Stack: C, C++, SocketCAN, STM32CubeMX, Linux Threads*
+
+> **Custom 2D Physics Engine (C++)**
+> * Engineered rigid body dynamics, custom vector operations, and collision resolution from scratch.
+> * Integrated custom memory allocation tracking to monitor and minimize memory overhead per frame.
+> * *Tech Stack: Modern C++, Memory Management, Physics Simulation*
 
